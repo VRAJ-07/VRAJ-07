@@ -61,7 +61,8 @@
 <h3 align="left">Projects:</h3>
 <ul>
   <li><strong>SQL Chatbot</strong>: Built a chatbot using LLMs from Hugging Face that translates natural language queries into SQL queries, executes them, and returns the results in a user-friendly format.</li>
-  <li><strong>Web Scraping with LLMs</strong>: Created a web scraping tool utilizing Hugging Face's LLMs to extract and process data from websites for analytical purposes.</li>
+  <li><strong>Web Scraping with LLMs</strong>: Developed a document and web-based Q&A tool leveraging Hugging Face's LLMs and FAISS to process and retrieve insights from multiple file formats and URLs.</li>
+  <li><strong>Chat With Documents Using RAG</strong>: Created a chatbot utilizing Hugging Face's LLM to extract and process data from websites, documents, pdfs for analytical purposes.</li>
   <li><strong>Alexa Voice Assistant Using LLM</strong>: Developed a virtual assistant Alexa using Python. The assistant integrates speech recognition, web automation, music playback, and natural language processing through Groq's LLM API to perform different tasks.</li>
   <li><strong>AI Image Generation</strong>: Developed an image generation model using LLMs from Hugging Face, creating custom AI-generated images based on user input.</li>
   <li><strong>AI Text Generation</strong>: Implemented a text generation system using Hugging Face LLMs to generate coherent and contextually accurate text outputs based on various prompts.</li>
